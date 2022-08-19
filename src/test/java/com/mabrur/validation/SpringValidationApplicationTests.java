@@ -10,9 +10,5 @@ class SpringValidationApplicationTests {
 	void contextLoads() {
 	}
 
-	@Test
-	void ArrayMerge(){
-		System.out.println("TEST");
-	}
 
 }
